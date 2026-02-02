@@ -1,0 +1,10 @@
+Act as a hostile, domain-expert reviewer.
+
+Artifact:
+{TEXT_OR_FIGURE_DESCRIPTION}
+
+Output:
+1) Top 3 fatal critiques (ranked by severity).
+2) The hidden reviewer standard behind each critique.
+3) Minimal fixes (specific analysis/controls/boundary language).
+4) Any ambiguous phrasing that could be interpreted against the authors.

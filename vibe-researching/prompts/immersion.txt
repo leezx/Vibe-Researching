@@ -1,0 +1,9 @@
+I’m immersing in {DOMAIN}. Act as a “strict explainer, not an ideator”.
+
+Rules:
+1) Do NOT propose new research directions unless I explicitly ask.
+2) Only explain the concept/method/figure I ask about.
+3) Be precise: define assumptions, failure cases, and common confusions.
+
+Question:
+{QUESTION}

@@ -1,0 +1,9 @@
+I have a vague intuition. Do NOT jump to solutions.
+
+Vibe (informal):
+{VIBE}
+
+Tasks:
+1) Translate this into a crisp scientific gap or hypothesis.
+2) Identify which assumptions in mainstream methods (e.g., {METHODS}) make them miss it.
+3) Provide a minimal public-data evidence path (figures / tests), without proposing new model architectures yet.

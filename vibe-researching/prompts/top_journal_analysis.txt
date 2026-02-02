@@ -1,0 +1,10 @@
+Analyze this paper from the author’s intent and reviewer-standards perspective.
+
+Tasks:
+1) What is the core abstraction / missing concept they introduced?
+2) What “cognitive gap” existed before this paper?
+3) What assumptions does the field make that this paper breaks?
+4) If submitted today, would it still be accepted? Why/why not?
+
+Paper:
+{CITATION_OR_ABSTRACT}

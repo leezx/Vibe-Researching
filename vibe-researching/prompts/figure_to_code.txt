@@ -1,0 +1,12 @@
+We are executing Figure {N}.
+
+Scientific question:
+{QUESTION}
+
+Available data objects (R/Python):
+{OBJECTS_AND_SHAPES}
+
+Requirements:
+1) Propose the simplest analysis that answers the question (no unnecessary complexity).
+2) Provide reproducible code.
+3) Identify likely reviewer critiques and how to address them minimally.

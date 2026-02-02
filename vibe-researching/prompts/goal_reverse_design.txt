@@ -1,0 +1,13 @@
+My delivery target is: {VENUE}
+
+Constraints:
+- Data: {DATA_TYPES}
+- No new wet lab experiments
+- Timeline: {TIMELINE}
+- Output: {PAPER_TYPE} (e.g., workshop tiny paper / full paper)
+
+Reverse-design:
+1) What story skeleton does this venue expect?
+2) Minimum complete figure set (must-have) vs optional (nice-to-have).
+3) Reviewer risk register: top likely critiques + minimal defenses.
+4) Explicit scope boundaries: what we will NOT do.
