@@ -94,7 +94,7 @@ The draft is stress-tested against simulated and real domain experts. GPT is exp
 ⸻
 
 What’s in this repository
-
+```
 vibe-researching/
 │
 ├── README.md              # This file
@@ -123,7 +123,7 @@ Each stage includes:
 	•	failure modes,
 	•	reusable prompt templates,
 	•	guidance on when not to use GPT.
-
+```
 ⸻
 
 What this pipeline is not
